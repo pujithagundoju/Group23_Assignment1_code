@@ -1,0 +1,22 @@
+{
+  "LS": {
+    "logistic": 0.6444444444444445,
+    "tanh": 0.6622222222222223
+  },
+  "NLS": {
+    "logistic": 0.5,
+    "tanh": 0.5925925925925926
+  },
+  "Univariate": {
+    "rmse_train": 0.16003283786621866,
+    "rmse_test": 0.15574066737681166,
+    "percent_rmse_train": 13.528856020476685,
+    "percent_rmse_test": 13.162555030536565
+  },
+  "Bivariate": {
+    "rmse_train": 1.4378178328028517,
+    "rmse_test": 1.4461057698513389,
+    "percent_rmse_train": 23.424400839391403,
+    "percent_rmse_test": 23.866636681812
+  }
+}

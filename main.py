@@ -50,8 +50,8 @@ RESULTS_DIR = os.path.join(BASE, "results")
 
 LS_DIR = os.path.join(DATA_DIR, "classification", "LS_Group23")
 NLS_PATH = os.path.join(DATA_DIR, "classification", "NLS_Group23.txt")
-UNIVARIATE_PATH = os.path.join(DATA_DIR, "regression", "Univariate", "Univariate.xlsx")
-BIVARIATE_PATH = os.path.join(DATA_DIR, "regression", "Bivariate", "Bivariate.xlsx")
+UNIVARIATE_PATH = os.path.join(DATA_DIR, "regression", "UnivariateData", "23.csv")
+BIVARIATE_PATH = os.path.join(DATA_DIR, "regression", "BivariateData", "23.csv")
 
 LR = 0.01
 EPOCHS = 500
